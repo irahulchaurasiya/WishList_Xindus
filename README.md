@@ -19,7 +19,6 @@ ___
  Intellij IDEA
  Maven
  Postman
- Swagger
 ```
 ## Database Used
 ___
@@ -80,7 +79,7 @@ This is a README file for explain the details about the project. This is a Wishl
 * Make sure you have MySQL workbench installed.
 * Set up the database according to the configuration in the application properties file.
 * Run the application using your preferred IDE.
-* Access the API endpoints using tools like Postman , Swagger or your web browser.
+* Access the API endpoints using tools like Postman , or your web browser.
 
 
 ## API Endpoints
