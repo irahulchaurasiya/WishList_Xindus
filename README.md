@@ -132,7 +132,7 @@ This is a README file for explain the details about the project. This is a Wishl
 
     ```json
     {
-        "lusername": john
+        "username": john
         "password": 9876543210
     }
     ```
